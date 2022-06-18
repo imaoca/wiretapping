@@ -9,7 +9,7 @@ Michihiro Imaoka
 
 ---
 # welcome!
-# I am very grateful for the opportunity to present to you the exercise server I have built. I would also like to thank all of you for coming here.
+# We am very grateful for the opportunity to present to you the  my wiretapping method. We would also like to thank all of you for coming here.
 
 ---
 # Bio
