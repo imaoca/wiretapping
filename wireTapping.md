@@ -13,7 +13,7 @@ Michihiro Imaoka
 
 ---
 # Bio
-![bg 100% left:50%](face.jpg)
+![bg % left:50%](face.jpg)
 Michihiro Imaoka is a founder of Imaoca Engineering Office in Japan. He is also a FPGA developer, an embedded system developer, and a technical writer. He has been a Microsoft MVP since 2014 (Windows development), Black Hat USA Arsenal presenter in 2020 and 2021.
 
 ---
